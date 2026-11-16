@@ -1,0 +1,2 @@
+pypdf>=4.0     # only needed to read a PDF resume
+certifi        # trusted HTTPS certificates (needed on python.org macOS installs)

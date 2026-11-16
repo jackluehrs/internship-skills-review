@@ -1,0 +1,14 @@
+# Personal data — never commit
+resume.*
+my_skills.txt
+internships.db
+report.md
+report.html
+
+# Python / editor
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.vscode/
+.DS_Store

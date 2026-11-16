@@ -1,0 +1,7 @@
+# Copy this file to my_skills.txt and list your skills, one per line.
+# Lines starting with # are ignored. If you put your resume in this folder
+# as resume.pdf or resume.txt, skills are read from it automatically too.
+Python
+Java
+Git
+SQL

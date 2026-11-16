@@ -1,0 +1,21 @@
+{
+  "role_filter": "machine learning|\\bML\\b|\\bAI\\b|artificial intelligence|data|software|engineer|forward deployed|solutions|consult|analytics|applied|research",
+  "goal_label": "AI engineering & consulting roles",
+  "goal_boost": {
+    "AI Engineering": 1.6, "Data & ML": 1.5, "Consulting & Business": 1.4,
+    "Cloud & DevOps": 1.2, "Databases": 1.2
+  },
+  "greenhouse": [
+    "anthropic", "scaleai", "databricks", "gleanwork", "c3iot", "dataiku",
+    "dominodatalab", "labelbox", "snorkelai",
+    "thoughtworks",
+    "stripe", "airbnb", "robinhood", "figma", "cloudflare", "coinbase",
+    "pinterest", "lyft", "samsara", "verkada", "brex", "affirm", "chime", "sofi"
+  ],
+  "lever": ["palantir"],
+  "ashby": [
+    "openai", "cohere", "perplexity", "harvey", "sierra", "writer", "anyscale",
+    "snowflake", "ramp", "notion",
+    "pariveda"
+  ]
+}
