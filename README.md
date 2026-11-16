@@ -94,6 +94,10 @@ Run the tests with `pytest`.
 - [ ] Application tracker
 - [ ] Scheduled daily fetch with GitHub Actions and an email digest of new top matches
 
+## How this was built
+
+I came up with the idea and directed Claude Code to build it, guiding the features and testing the results. I’m now working through the codebase to understand and extend it myself.
+
 ## License
 
 MIT
